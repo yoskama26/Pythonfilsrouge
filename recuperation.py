@@ -20,3 +20,4 @@ for partie in pied():
     else:
         dico2[dateu] = 1
 print(dico2)
+
